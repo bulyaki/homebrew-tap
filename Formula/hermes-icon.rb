@@ -1,8 +1,8 @@
 class HermesIcon < Formula
   desc "Customize the Hermes desktop app icon and persist it across updates"
   homepage "https://github.com/bulyaki/hermes-icon"
-  url "https://github.com/bulyaki/hermes-icon/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "be3e0214423b7c8bc1d4378953ef34d9cfd694cc9003aad13e1df15fdc4a70f2"
+  url "https://github.com/bulyaki/hermes-icon/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "5348f8f06b03c7c27c7b7da0ed338bf3583529debb20cae20892bbf9e5eb0b7a"
   license "MIT"
   head "https://github.com/bulyaki/hermes-icon.git", branch: "main"
 
